@@ -1,0 +1,73 @@
+.container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.container h2{
+    font-family: 'Poppins';
+}
+
+.button{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: flex-end;
+    gap: 2em;
+}
+
+.button button{
+    background-color: rgb(48, 48, 233);
+    color: #fff;
+    padding: .7em .9em;
+    font-family: 'Poppins';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5em;
+    font-size: .9rem;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 2em;
+}
+
+.table{
+    font-family: 'Poppins';
+}
+
+.edit_btn{
+    background-color: rgb(25, 175, 14);
+    padding: .4em 1.3em;
+    border: none;
+    color: #fff;
+    margin-right: 1.5em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.edit_btn:hover{
+    background-color: rgb(18, 127, 10);
+    transition: 300ms ease-in-out;
+}
+
+.del_btn{
+    background-color: rgb(228, 9, 9);
+    padding: .4em 1.3em;
+    border: none;
+    color: #fff;
+    margin-right: 1.5em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.del_btn:hover{
+    background-color: rgb(186, 16, 16);
+    transition: 300ms ease-in-out;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}

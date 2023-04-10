@@ -1,0 +1,24 @@
+    "Faculty": [
+        {
+            "FacultyId": 1,
+            "Name": "Faculty of Management Sciences",
+            "Code": "MSA2023",
+            "UniqueId": "201MSA",
+            "Status": 1
+        },
+        {
+            "FacultyId": 2,
+            "Name": "Faculty of Engineering",
+            "Code": "ENG2023",
+            "UniqueId": "201ENG",
+            "Status": 0
+        },
+        {
+            "FacultyId": 1,
+            "Name": "Faculty of Management Sciences",
+            "Code": "MSA2023",
+            "UniqueId": "201MSA",
+            "Status": 1
+        }
+    ]
+}
